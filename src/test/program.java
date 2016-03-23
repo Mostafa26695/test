@@ -5,11 +5,13 @@ public class program {
 	public static void main(String args[])
 	{
 		
-		wel();
+		wel()
 	}
 	
 	public static void wel()
 	{
 		System.out.println("Hello World !");
+		
+		
 	}
 }
