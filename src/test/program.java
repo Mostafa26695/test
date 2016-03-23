@@ -4,9 +4,12 @@ public class program {
 
 	public static void main(String args[])
 	{
-		System.out.println("Hello World !");
 		
+		wel();
 	}
 	
-	
+	public static void wel()
+	{
+		System.out.println("Hello World !");
+	}
 }
